@@ -1,7 +1,7 @@
 import requests, json
 
 BaseUrl = "https://api.vhtear.com"
-Apikey = "Chat me https://line.me/ti/p/~veza1007"
+Apikey = "apihyper"
 
 def ytdl(url):
     params = {
